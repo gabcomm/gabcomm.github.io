@@ -5,7 +5,7 @@ subtitle: 2024
 ---
 
 ![Alt text](/assets/img/seining.jpg "Seining")
-<img src="/assets/img/seining.jpg" alt="Seining" width="200"/>
+<img src="/assets/img/seining.jpg" alt="Seining" width="600"/>
 
 ### Background
 I completed my undergrad at Cornell University studying Environment and Sustsainability Science, with minors in marine biology and agricultural sciences. My undergraduate research focused on evolutionary trophic morphology of minnows using the [Cornell Museum of Vertebrates](https://www.cumv.cornell.edu/) collection. 
