@@ -20,6 +20,7 @@ author: Gabby Commisso
 ###############################################
 
 navbar-links:
+  Home: "https://gabcomm.github.io/"
   About: "aboutme"
   Research:
     - Minnow Evolution: "minnow"
