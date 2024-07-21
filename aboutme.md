@@ -11,4 +11,5 @@ I joined [the Wood Lab](https://chelsealwood.com/) as a graduate student in Fall
 
 ### Contact
 **email:** gcom@uw.edu
+
 **office** University of Washington, Fishery Sciences Building (FSH), 262B
