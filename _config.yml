@@ -22,8 +22,8 @@ author: Gabby Commisso
 navbar-links:
   About: "aboutme"
   Research:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Minnow Morphology: "minnowmorph"
+    - Parasites and Invaders: "parasitesandinvaders"
   Outreach: "outreach"
   CV: "cv"
   
@@ -136,7 +136,7 @@ navbar-var-length: false
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 page-col: "#A5D6A7"
-text-col: "#404040"
+text-col: "#000000"
 link-col: "#008AFF"
 hover-col: "#388E3C"
 navbar-col: "#1B5E20"
