@@ -4,7 +4,7 @@ title: About Me
 subtitle: 2024
 ---
 
-<img align="left" width="450" src="/assets/img/avatar_hawaii.jpg">
+<img align="center" width="450" src="/assets/img/avatar_hawaii.jpg">
 
 ### Background
 I completed my undergrad at Cornell University studying Environment and Sustsainability Science, with minors in marine biology and agricultural sciences. My undergraduate research focused on evolutionary trophic morphology of minnows using the [Cornell Museum of Vertebrates](https://www.cumv.cornell.edu/) collection. 
