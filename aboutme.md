@@ -1,16 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 2024
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+### Background
+I completed my undergrad at Cornell University studying Environment and Sustsainability Science, with minors in marine biology and agricultural sciences. My undergraduate research focused on evolutionary trophic morphology of minnows using the [Cornell Museum of Vertebrates] (https://www.cumv.cornell.edu/) collection. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I joined [the Wood Lab] (https://chelsealwood.com/) as a graduate student in Fall 2023. My dissertation work will center around invasions, historical data, and freshwater ecosystems, investigating questions like: how have invasions altered parasite communities over time? or how does parasitism change along an invasion front? Outside of research, I have a strong interest in science outreach, specifically through museums. I hope to link my research with exhibit planning and design work to teach future scientists about the wonderful world of parasitism.
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Contact
+**email:** gcom@uw.edu
+**office** University of Washington, Fishery Sciences Building (FSH), 262B
