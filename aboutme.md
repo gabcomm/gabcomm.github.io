@@ -4,7 +4,6 @@ title: About Me
 subtitle: 2024
 ---
 
-![Alt text](/assets/img/seining.jpg "Seining")
 <img src="/assets/img/seining.jpg" alt="Seining" width="600"/>
 
 ### Background
