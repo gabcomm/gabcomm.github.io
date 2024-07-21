@@ -22,7 +22,7 @@ author: Gabby Commisso
 navbar-links:
   About: "aboutme"
   Research:
-    - Minnow Morphology: "minnow"
+    - Minnow Evolution: "minnow"
     - Parasites and Invaders: "parasitesandinvaders"
   Outreach: "outreach"
   CV: "cv"
@@ -140,11 +140,11 @@ text-col: "#000000"
 link-col: "#008AFF"
 hover-col: "#388E3C"
 navbar-col: "#1B5E20"
-navbar-text-col: "#404040"
+navbar-text-col: "#000000"
 navbar-border-col: "#DDDDDD"
 footer-col: "#EAEAEA"
 footer-text-col: "#777777"
-footer-link-col: "#404040"
+footer-link-col: "#000000"
 footer-hover-col: "#0085A1"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
