@@ -27,6 +27,7 @@ navbar-links:
     - Parasites and Invaders: "parasitesandinvaders"
   Outreach: "outreach"
   CV: "cv"
+  Test: "test"
   
 ################
 # --- Logo --- #
